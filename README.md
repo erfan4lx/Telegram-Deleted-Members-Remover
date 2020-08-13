@@ -1,7 +1,7 @@
 # Telegram-Deleted-Members-Remover
 Delete the deleted account members from your destination group
 
-Just edit the file and enter your inrmoation of Telegram account from https://my.telegram.org then run the file with Python3
+Just edit the file with your informoation of your Telegram account from https://my.telegram.org then run the file with Python3
 
 ***
 

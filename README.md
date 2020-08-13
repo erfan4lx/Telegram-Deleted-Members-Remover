@@ -3,7 +3,6 @@
 Just edit the file with your informoation of your Telegram account from https://my.telegram.org then run the file with Python3 then enter this word: 'erfan4lx' on your group
 
 ***
-Show on Youtube : https://youtu.be/ZbImuF_nBLA
 
 ➖➖➖➖➖➖
 Coded by: erfan4lx

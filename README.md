@@ -4,17 +4,10 @@ Just edit the file with your informoation of your Telegram account from https://
 
 ***
 
-Show on Youtube : https://youtu.be/bKC2g5zKo0k
+Show full video on YouTube : https://youtu.be/bKC2g5zKo0k
 
-➖➖➖➖➖➖
-Coded by: erfan4lx
-➖➖➖➖➖➖
+Show demo video on Instagram : https://www.instagram.com/p/CMHmzjFgSGa
 
-👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
-
-🔥 ฿Ⱡ₳₵₭ Ⱨ₳₮ Ⱨ₳₵₭ɆⱤ 🔥
-
-➖➖➖➖➖➖
 
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
